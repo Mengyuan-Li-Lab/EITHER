@@ -1,0 +1,11 @@
+Package: EITHER
+Type: Package
+Title: Tumor heterogeneity level evaluation
+Version: 1.0
+Date: 2022-3-1
+Author: Mengyuan Li
+Maintainer: Mengyuan Li <300562@njucm.edu.cn>
+Description: This package shows a EITHER algorithm to evaluate tumor heterogeneity level in R.
+     EITHER evaluates the tumor heterogeneity level of each tumor sample based on Shannon Entropy.
+LazyData: no
+License: GPL-3
